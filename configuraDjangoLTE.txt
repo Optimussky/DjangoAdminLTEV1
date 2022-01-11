@@ -1,0 +1,6 @@
+
+## https://github.com/d-demirci/django-adminlte3
+
+
+##Configuraciones del Admin
+https://programmerclick.com/article/50511560997/

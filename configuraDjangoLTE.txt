@@ -4,3 +4,21 @@
 
 ##Configuraciones del Admin
 https://programmerclick.com/article/50511560997/
+
+
+
+## 
+echo "# DjangoAdminLTEV1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Optimussky/DjangoAdminLTEV1.git
+git push -u origin main
+
+
+
+##
+git remote add origin https://github.com/Optimussky/DjangoAdminLTEV1.git
+git branch -M main
+git push -u origin main
